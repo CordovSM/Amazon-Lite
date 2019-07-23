@@ -54,7 +54,7 @@ header, .bg-dark-2{
     padding-top: 250px;
 }
 
-.card{
+.card-noborder{
     border: none !important;
     border-radius: 0px !important;
 }
@@ -137,6 +137,7 @@ header, .bg-dark-2{
         background-clip: border-box;
         border: 1px solid rgba(0,0,0,.125);
         border-radius: .25rem;
+        padding: 0rem 1rem;
 }
 
 .link4{
@@ -145,4 +146,24 @@ header, .bg-dark-2{
 
 .link4:hover{
     text-decoration: none;
+}
+
+.float{
+    float: right;
+}
+
+.no_pad{
+    padding: 0 0 0 20px;
+}
+
+.txt-size{
+    font-size: 14px;
+}
+
+.card-color{
+    background-color:#EAEDED;
+}
+
+.no-margin{
+    margin-left: 0 !important;
 }
