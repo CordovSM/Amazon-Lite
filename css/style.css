@@ -175,3 +175,15 @@ header, .bg-dark-2{
 .link5:hover{
     text-decoration: none;
 }
+
+.card-nomargin{
+    margin: 0 !important;
+}
+.card-bottom{
+    border-bottom: 1px solid #A5A5A5 !important;
+}
+
+.center{
+    margin: auto;
+    display: block;
+}
