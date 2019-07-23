@@ -167,3 +167,11 @@ header, .bg-dark-2{
 .no-margin{
     margin-left: 0 !important;
 }
+
+.border-right{
+    border-right: 1px solid #A5A5A5;
+}
+
+.link5:hover{
+    text-decoration: none;
+}
